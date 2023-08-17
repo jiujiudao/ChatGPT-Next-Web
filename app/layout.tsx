@@ -5,7 +5,7 @@ import "./styles/highlight.scss";
 import { getClientConfig } from "./config/client";
 
 export const metadata = {
-  title: "ChatGPT Next Web",
+  title: "ChatGPT HZCU Web",
   description: "Your personal ChatGPT Chat Bot.",
   viewport: {
     width: "device-width",
